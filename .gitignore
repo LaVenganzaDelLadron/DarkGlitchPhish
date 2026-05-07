@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sensitive / generated captures
+capture_data.*
+ip.txt
+usernames.txt
+url_analytics.json
+
+# Local/editor
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Build / cache
+*.DS_Store
+
